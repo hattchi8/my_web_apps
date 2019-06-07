@@ -1,0 +1,15 @@
+current directory: /Users/takushi.hachiya/my_web_apps/books_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190605-41930-nofl9s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takushi.hachiya/my_web_apps/books_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/takushi.hachiya/my_web_apps/books_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/takushi.hachiya/my_web_apps/books_app/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190605-41930-1s5x8au/bootsnap
